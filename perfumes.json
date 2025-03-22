@@ -1,0 +1,40 @@
+{
+    "brinquedos": [
+        {
+            "id": 1,
+            "nome": "La vie Est Belle",
+            "precoDolar": 150,
+            "img": "img/perfume.png"
+        },
+        {
+            "id": 2,
+            "nome": "1 Million",
+            "precoDolar": 210,
+            "img": ""
+        },
+        {
+            "id": 3,
+            "nome": "Sauvage",
+            "precoDolar": 155,
+            "img": ""
+        },
+        {
+            "id": 4,
+            "nome": "Acqua Di Gio",
+            "precoDolar": 190,
+            "img": ""
+        },
+        {
+            "id": 5,
+            "nome": "AZZARO",
+            "precoDolar": 170,
+            "img": ""
+        },
+        {
+            "id": 6,
+            "nome": "My Way",
+            "precoDolar": 200,
+            "img": ""
+        }
+    ]
+}
