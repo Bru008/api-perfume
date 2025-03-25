@@ -4,7 +4,7 @@
             "id": 1,
             "nome": "La vie Est Belle",
             "precoDolar": 150,
-            "img": "img/perfume.png"
+            "img": "../img/perfume.png"
         },
         {
             "id": 2,
